@@ -19,13 +19,13 @@
 
 ### 👋 About Me
 
-I’m **Atharva Kadam**, a Senior Software Engineer (AI/ML) with a strong background in building scalable computer vision and AI systems. I enjoy solving real-world problems using a combination of machine learning, distributed systems, and modern MLOps. Currently, I work at Droisys Inc., where I lead initiatives in brand detection, generative AI, and AI-powered analytics.
+I’m **Atharva Kadam**, a Data Engineer and AI/ML Lead with a strong background in building scalable computer vision and AI systems. I enjoy solving real-world problems using a combination of machine learning, distributed systems, and modern MLOps. Currently, I work at Droisys Inc., where I lead initiatives in brand detection, generative AI, and AI-powered analytics.
 
 ---
 
 ### 🚀 Experience
 
-**Senior Software Engineer – AI/ML @ Droisys Inc.**  
+**Data Engineer and AI/ML Lead**  
 *May 2023 – Present, Las Vegas, NV*
 
 - Engineered YOLO-based computer vision pipelines, boosting brand detection accuracy by 25% and reducing training times by 80%.
